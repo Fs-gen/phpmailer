@@ -1,2 +1,4 @@
 # phpmailer
-php send email
+Untuk menjalankannya, silahkan setting file phpmailer/sendmail.php
+
+~ enjoyyy 
